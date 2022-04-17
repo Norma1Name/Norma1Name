@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Norma1Name
+- 👀 I’m interested in JS development
+- 🌱 I’m currently learning backend website development
+- 📫 You can reach me with my discord account : "Norma1Name#3663" or by my email : hi@norma1na.me
